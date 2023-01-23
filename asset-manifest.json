@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bakery-lab/static/css/main.42594bf0.css",
+    "main.js": "/bakery-lab/static/js/main.74aa80b8.js",
+    "static/js/787.b5964fdb.chunk.js": "/bakery-lab/static/js/787.b5964fdb.chunk.js",
+    "index.html": "/bakery-lab/index.html",
+    "main.42594bf0.css.map": "/bakery-lab/static/css/main.42594bf0.css.map",
+    "main.74aa80b8.js.map": "/bakery-lab/static/js/main.74aa80b8.js.map",
+    "787.b5964fdb.chunk.js.map": "/bakery-lab/static/js/787.b5964fdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42594bf0.css",
+    "static/js/main.74aa80b8.js"
+  ]
+}
