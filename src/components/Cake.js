@@ -1,5 +1,6 @@
 import '../App.css';
 
+// Could have done const Cake = ({cake, onButtonClick}) instead
 const Cake = ({cakeName, ingredients, price, rating, image, className, count, onButtonClick}) => {
 
     const handleAddToBasket = () => {
@@ -21,6 +22,11 @@ const Cake = ({cakeName, ingredients, price, rating, image, className, count, on
         div = <div className='counter'>{count}</div>
     }
 
+    const ingredientsList = ingredients.map((ingredient) => {
+        return <li>{ingredient}</li>
+    })
+
+    // DISPLAY LOGIC
     return(
         <>
             {div}

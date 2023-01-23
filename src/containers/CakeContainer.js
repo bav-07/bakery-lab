@@ -5,7 +5,7 @@ import '../App.css'
 const CakeContainer = () => { 
 
     // console.log(cakes);
-    const states = []
+    // const states = []
     // for (let i = 0 ; i < cakes.length ; i++) {
     //     states.add(useState(0));
     // }
@@ -163,6 +163,7 @@ const CakeContainer = () => {
     }]  
 
 
+    // DISPLAY LOGIC
     return(
         <>
             <h2>Cakes</h2>
