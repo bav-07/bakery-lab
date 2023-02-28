@@ -55,7 +55,7 @@ body {
 .invisible {
   transform: scale(0);
   transform-origin: 20px 27px;
-  transition: 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: 0.7s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 
@@ -96,6 +96,7 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", sans-serif;
   font-weight: 500;
+  font-size: 0.95rem;
   height: 70px;
   width: 50%;
   border: 0;
